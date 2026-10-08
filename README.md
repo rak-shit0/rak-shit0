@@ -133,9 +133,7 @@ while (true) {
   <b>Thanks for visiting! 👋</b>
   <br/>
   <sub>⭐ Explore my repositories · Build something awesome.</sub>
-</p>/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+</p>
 Programming:
 Java • Python • JavaScript
 
