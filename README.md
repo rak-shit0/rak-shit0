@@ -14,31 +14,23 @@ Currently exploring software development, web technologies, data, cloud, AI, and
 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php,rust,go,kotlin" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
 </p>⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
 </p>🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" />
-</p>☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 </p>🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,npm,pnpm,yarn,bash" />
-</p>🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash" />
 </p>📊 Data & Analytics
 
 <p>
