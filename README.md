@@ -1,19 +1,147 @@
-👋 Hi, I'm Shivam Singh
+👋 Hey, I'm Shivam Singh
 
-🎓 B.Tech Computer Science Student | 💻 Developer | 📊 Tech Enthusiast
+🎓 B.Tech CSE Student · 💻 Developer · 🤖 Tech Explorer
 
-I'm a passionate developer focused on building practical applications, solving problems through code, and continuously expanding my technical knowledge.
+«Building things. Breaking things. Learning how to build them better.»
 
-🛠️ Skills & Technologies
+I'm passionate about technology, problem-solving, and building practical applications.
+Currently exploring software development, web technologies, data, cloud, AI, and modern development tools while continuously strengthening my fundamentals.
 
-## 🛠️ Tech Stack
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+⚡ Tech Stack
+
+💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php,rust,go,kotlin" />
+</p>🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" />
+</p>⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,php" />
+</p>🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" />
+</p>☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,nginx,linux" />
+</p>🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,npm,pnpm,yarn,bash" />
+</p>🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>📊 Data & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>Also: Excel · Power BI · Pandas · NumPy · Matplotlib
+
+---
+
+🧠 Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- System Design
+- REST APIs
+- Authentication & Authorization
+- Git & Version Control
+- Debugging & Testing
+- Problem Solving
+
+---
+
+🛠️ Engineering Practices
+
+- Clean Code
+- Modular Architecture
+- API Development
+- Database Design
+- Responsive Design
+- Version Control
+- Code Reviews
+- Testing & Debugging
+- CI/CD
+- Agile Development
+- Documentation
+- Security Fundamentals
+
+---
+
+🚀 Currently Leveling Up
+
+Full-Stack Development    ███████░░░
+Data Structures           ██████░░░░
+Backend Development       █████░░░░░
+Cloud & DevOps            ████░░░░░░
+AI & Machine Learning     ████░░░░░░
+System Design             ███░░░░░░░
+
+«Learning → Building → Testing → Improving → Shipping 🚀»
+
+---
+
+🧪 Featured Project
+
+🤖 EchoMind — AI-Powered Learning Platform
+
+An AI-powered learning platform focused on creating an interactive, accessible, and engaging learning experience.
+
+Tech Areas: Web Development · AI · Accessibility · Education
+
+---
+
+🎯 My Developer Mindset
+
+Learn → Build → Break → Debug → Improve → Ship
+
+I believe great developers aren't the ones who know everything.
+
+They're the ones who know how to learn, solve problems, adapt, and keep building.
+
+---
+
+🌱 What's Next?
+
+- 🧩 Mastering DSA & problem solving
+- 🌐 Building full-stack applications
+- ☁️ Learning cloud & DevOps
+- 🤖 Exploring AI-powered applications
+- 🏗️ Understanding scalable system design
+- 📊 Growing my data & analytics skills
+- 🚀 Building projects that solve real problems
+
+---
+
+⚡ Developer Mode
+
+while (true) {
+    learn();
+    build();
+    debug();
+    improve();
+}
+
+---
+
+<p align="center">
+  <b>Thanks for visiting! 👋</b>
+  <br/>
+  <sub>⭐ Explore my repositories · Build something awesome.</sub>
+</p>/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Programming:
